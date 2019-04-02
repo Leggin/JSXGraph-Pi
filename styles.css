@@ -1,0 +1,34 @@
+
+
+.container{
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+
+h1{
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #424242 
+}
+p{
+    font-family: Helvetica Neue, sans-serif;
+    font-size: 20pt;
+    text-align: left;
+    color: #525252
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
